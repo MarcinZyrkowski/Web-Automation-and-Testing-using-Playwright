@@ -7,6 +7,9 @@
 - `npm i playwright playwright-video @ffmpeg-installer/ffmpeg`
 - `npm install -D playwright @playwright/test`
 
+## installing node_modules
+`npm install`
+
 ## Purpose
 
 The goal of the repository is to practice using playwright features
